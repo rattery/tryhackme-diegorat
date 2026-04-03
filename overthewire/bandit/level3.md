@@ -10,6 +10,6 @@ or
 
 `cat ./"--spaces in this filename--"`
 
-Logged in as bandit3, found the `--spaces in this filename--` and got the password. Moving to Level 3.
+Logged in as bandit3, found the `--spaces in this filename--` and got the password. Moving to Level 4.
 Password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
