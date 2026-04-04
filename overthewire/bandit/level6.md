@@ -7,7 +7,11 @@ The goal is to find the password stored in a file under the `inhere` directory w
 
 Using the command:
 
-`find -readable -1033c`
+`find -readable -size 1033c`
+
+and
+
+`cat ./maybehere07/.file2`
 
 We are able to check if it is human readable and 1033 bytes, which nets use our password.
 
