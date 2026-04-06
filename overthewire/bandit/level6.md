@@ -16,3 +16,5 @@ and
 We are able to check if it is human readable and 1033 bytes, which nets use our password.
 
 Logged in as bandit 6, found file `./maybehere07/.file2` and got the password. Moving on to level 7.
+Password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
