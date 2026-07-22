@@ -15,5 +15,5 @@ Finally, the file we find is `...Hiding-From-You`
 `cat ...Hiding-From-You`
 
 Logged in as bandit4, found the `...Hiding-From-You` file and got the password. Moving to Level 5.
-Password:2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+Password:xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
 
