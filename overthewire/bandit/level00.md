@@ -8,7 +8,7 @@ The goal is to log into the game via SSH using the provided credentials.
 
 SSH (Secure Shell) is a protocol for securely connecting to remote machines over a network.
 
-Using the command:
+We can connect to OverTheWire using the command:
 
 `ssh -p port user@host`
 

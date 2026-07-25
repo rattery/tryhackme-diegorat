@@ -1,11 +1,12 @@
 # Level 1
+
 The goal is to find a file called `readme` in the home directory to get the password for Level 2.
 
-Then to see the files in the directory I am in, I type:
+Since we need to find a file, we will use the `ls` command to list all non-hidden files in a directory:
 
 `ls`
 
-Finally, to see the contents of the file `readme`, I type:
+Finally, the command to view the contents of the `readme` file would be:
 
 `cat readme`
 
